@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pytz
+yt-dlp
+mutagen
+readability-lxml
+py7zr
+pyzipper
+multivolumefile
+pinscrape 
