@@ -152,7 +152,7 @@
 
 ## محدودیت ffmpeg
 
-ربات بدون ffmpeg طراحی شده تا روی هاست‌های اشتراکی که دسترسی root ندارند کار کند.
+ربات بدون ffmpeg طراحی شده تا اگر به هر دلیلی دسترسی به ffmpeg ندارند کار کند.
 
 تأثیر بر قابلیت‌ها:
 - **یوتوب:** فقط فرمت‌هایی که صدا و تصویر در یک فایل هستند قابل دانلود‌اند. معمولاً تا ۴۸۰p. کیفیت ۷۲۰p و بالاتر نیاز به ffmpeg دارد.
@@ -181,7 +181,7 @@
 - کتابخانه‌های مورد نیاز:
 
 ```
-pip install requests beautifulsoup4 pytz yt-dlp mutagen readability-lxml py7zr pyzipper multivolumefile
+requests beautifulsoup4 pytz yt-dlp mutagen readability-lxml py7zr multivolumefile instaloader pinscrape
 ```
 
 ---
