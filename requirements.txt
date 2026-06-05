@@ -5,6 +5,6 @@ yt-dlp
 mutagen
 readability-lxml
 py7zr
-pyzipper
 multivolumefile
-pinscrape 
+instaloader
+pinscrape
